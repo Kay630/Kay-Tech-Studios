@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <!-- Main Pages -->
+  <url>
+    <loc>https://kaydevstudios.netlify.app/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://kaydevstudios.netlify.app/about</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://kaydevstudios.netlify.app/services</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://kaydevstudios.netlify.app/portfolio</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://kaydevstudios.netlify.app/contact</loc>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Portfolio Projects -->
+  <url>
+    <loc>https://kaydevstudios.netlify.app/portfolio/lyns-kitchen</loc>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://kaydevstudios.netlify.app/portfolio/creovate</loc>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://kaydevstudios.netlify.app/portfolio/creativity-meets-code</loc>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://kaydevstudios.netlify.app/portfolio/qihinia-thrift</loc>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://kaydevstudios.netlify.app/portfolio/design-agency</loc>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://kaydevstudios.netlify.app/portfolio/every-journey-story</loc>
+    <priority>0.6</priority>
+  </url>
+
+</urlset>
